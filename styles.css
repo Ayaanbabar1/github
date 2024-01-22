@@ -1,0 +1,57 @@
+body{   /*this body section will add styles to the whole page*/
+    background-color: grey; /*This changes the background colour*/
+    text-align: center; /*This piece of code makes all content center in to the middle*/
+    
+} 
+
+
+
+.top{
+    background-color: orange;
+    height: 500px;
+width: 100%;
+
+
+}
+
+.l{
+    background-color: rgb(0, 255, 128);
+    height: 400px;
+    width: 50%;
+    float: left;
+}
+.r
+{  background-color: rgb(217, 255, 0);
+    height: 400px;
+    width: 50%;
+    float: left;
+
+}
+.bottom{
+    background-color: aqua;
+    height: 800px;
+    width: 100%;
+}
+.indexha{
+
+    background-color: chartreuse;
+    border-radius: 10px;
+}
+.textbox{
+    background-color:rgb(255, 255, 255);
+    height: 650px;
+    width: 100%;
+    font-size: larger;
+  
+    margin-right: 40px;
+
+}
+
+.to{
+    background-color: orange;
+    height: 800px;
+    width: 100%;
+
+
+
+}
